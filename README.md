@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Andryj96
+- 👋 Hi, I’m Andry
 - 👀 I’m interested in Web Development
+- 👀 Full Stack Engineer with around 5 years of experience in NodeJs and Django.
 - 🌱 I’m currently learning all I need 
 
 <!---
